@@ -8,8 +8,8 @@
     "extract_dir": "smithy-cli-windows-x64",
     "env_add_path": "bin",
     "checkver": {
-      "url": "https://github.com/haydenbaker/smithy/releases/latest",
-      "re": "v([\\d.]+).zip"
+      "url": "https://github.com/haydenbaker/smithy/releases/latest/download/VERSION",
+      "re": "([\\d.]+)"
     },
     "autoupdate": {
       "url": "https://github.com/haydenbaker/smithy/releases/download/$version/smithy-cli-windows-x64.zip",
