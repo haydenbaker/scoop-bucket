@@ -1,5 +1,5 @@
 {
-    "version": "latest",
+    "version": "1.43.0",
     "description": "Smithy CLI - A CLI for building, validating, querying, and iterating on Smithy models",
     "homepage": "https://smithy.io",
     "license": "Apache-2.0",
