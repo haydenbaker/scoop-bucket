@@ -1,10 +1,10 @@
 {
-    "version": "1.43.0",
+    "version": "1.42.0",
     "description": "Smithy CLI - A CLI for building, validating, querying, and iterating on Smithy models",
     "homepage": "https://smithy.io",
     "license": "Apache-2.0",
-    "url": "https://github.com/haydenbaker/smithy/releases/download/1.43.0/smithy-cli-windows-x64.zip",
-    "hash": "acc9d7744c5334b5ccfe5587c06d6e913ee3000e260e47b0a56422dd808e7cc4",
+    "url": "https://github.com/haydenbaker/smithy/releases/download/1.42.0/smithy-cli-windows-x64.zip",
+    "hash": "5400688154209cda8d2b2421d40658fc075be93adad54ce4f3ab2f9b683f6d69",
     "extract_dir": "smithy-cli-windows-x64",
     "env_add_path": "bin",
     "post_install": "smithy warmup",
